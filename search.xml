@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>关于博客建立过程遇到的问题</title>
+    <url>/posts/35750.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote>
+<p>​        做事一定要学会总结其中的方法，这样才能够做到“事半功倍”，少走许多的弯路！</p>
+</blockquote>
+<h3 id="收获"><a href="#收获" class="headerlink" title="收获"></a>收获</h3><p>​        用了大概两天的时间，终于建立了这个博客，自己的执行力太差了。使用<strong>HEXO</strong>作为作为博客程序，部署在世界上最大的<del>同性交友网站</del><strong>Github</strong>这个平台，以后这里就是永久的仓库，除非有一天<del><strong>Pornhub</strong></del>倒闭了！:smile:</p>
+<p>​        在建立博客的过程中，遇到了很多奇怪的问题，好在百度这个搜索引擎一一解决了。主要是参考了<strong><em>B站<em>、</em>CSDN<em>、</em>简书</em></strong>，还有一些其他的个人博客。其中，大部分教程与问题解决方法同质化严重或者是思路不够清晰。其实，最重要的还是要参考<strong>官方文档</strong>，把文档看透了，才能够有一个清晰的认识，也是最有效率的途径。居然通过两天的折腾，才大概通晓了其中的操作方法，幸好官方文档是简体中文版本的。</p>
+<h3 id="程序"><a href="#程序" class="headerlink" title="程序"></a>程序</h3><ol>
+<li><a href="https://git-scm.com/" target="_blank" rel="noopener">Git</a><a href="Git是用来远端部署的工具。">^1</a></li>
+<li><a href="http://nodejs.cn/" target="_blank" rel="noopener">NodeJS</a><a href="NodeJs主要用来渲染页面。">^2</a></li>
+<li><a href="https://hexo.io/zh-cn/" target="_blank" rel="noopener">Hexo</a><a href="Hexo是个人博客程序，类似Wordpress。">^3</a></li>
+<li><a href="https://github.com/" target="_blank" rel="noopener">Github</a><a href="Github用来托管hexo生成的静态页面。">^4</a></li>
+</ol>
+<h3 id="MD测试"><a href="#MD测试" class="headerlink" title="MD测试"></a>MD测试</h3><ul>
+<li>插入图片</li>
+</ul>
+<img src="https://i.loli.net/2020/04/19/tCnA2HeuqrQLsc5.jpg" height="600" width="300">
+
+<h3 id="Aplayer测试"><a href="#Aplayer测试" class="headerlink" title="Aplayer测试"></a>Aplayer测试</h3><ul>
+<li>原生音乐</li>
+</ul>
+
+    <div id="aplayer-KWIoPWhR" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="38019092" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#555"
+    ></div>
+
+<ul>
+<li>原生歌单</li>
+</ul>
+
+    <div id="aplayer-TwJQeBAE" class="aplayer aplayer-tag-marker meting-tag-marker"
+         data-id="2033949910" data-server="netease" data-type="playlist" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#555"
+    ></div>
+<h3 id="Dplayer测试"><a href="#Dplayer测试" class="headerlink" title="Dplayer测试"></a>Dplayer测试</h3><ul>
+<li>bilibili<div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"theme":"#FADFA3","loop":true,"video":{"url":"http://video.jingpin365.com/vo/20214/1619627850746?v=1&sign=6afd89759a1bd6676d95a3e04645a3ad&t=608a386c","pic":"http://video.jingpin365.com/vo/20214/1619627850746?v=1&sign=691b5418f69bdc0e4a4d2dacf289ce94&t=608a419a&vframe/jpg/offset/1"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script></li>
+</ul>
+]]></content>
+      <categories>
+        <category>建站</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>markdown</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Python十大经典入门学习书籍</title>
+    <url>/posts/20047.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h2 id="书籍介绍"><a href="#书籍介绍" class="headerlink" title="书籍介绍"></a>书籍介绍</h2><p>经典的Python入门教程书籍，层次鲜明，结构严谨，内容翔实，特别是最后几章，作者将前面讲述的内容应用到10个引人入胜的项目中，并以模板的形式介绍了项目的开发过程，手把手教授Python开发，让读者从项目中领略Python的真正魅力。这本书既适合初学者夯实基础，又能帮助Python程序员提升技能，即使是Python方面的技术专家，也能从书里找到耳目一新的内容。</p>
+<h2 id="学习地址"><a href="#学习地址" class="headerlink" title="学习地址"></a>学习地址</h2><p>百度：<a href="https://pan.baidu.com/s/1xQrzg1DcGc98p6azC-SduA" target="_blank" rel="noopener">https://pan.baidu.com/s/1xQrzg1DcGc98p6azC-SduA</a></p>
+<p>天翼：<a href="https://cloud.189.cn/t/veiQRbve2Q32" target="_blank" rel="noopener">https://cloud.189.cn/t/veiQRbve2Q32</a></p>
+]]></content>
+      <categories>
+        <category>书籍</category>
+      </categories>
+      <tags>
+        <tag>python</tag>
+        <tag>ebook</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>关于博客问题修复时间线</title>
+    <url>/posts/32161.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p><em>本帖主要介绍博客日常问题修复及新增功能的记录，如果你有好的建议或者发现一些问题，也可以在下方评论区进行留言反馈！</em></p>
+<h2 id="2021-04-14-issue修复"><a href="#2021-04-14-issue修复" class="headerlink" title="2021/04/14 issue修复"></a>2021/04/14 issue修复</h2><ul>
+<li>live2d与matery主题footer栏不兼容导致显示不完整</li>
+</ul>
+<blockquote>
+<p>busuanzi.pure.mini.js文件中“none”修改为“true”</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>建站</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>js</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021年一些越狱源网站集合</title>
+    <url>/posts/57381.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote>
+<p>关于一些越狱之后常用的软件源整理！</p>
+</blockquote>
+<ol>
+<li>降级工具appStore++作者源</li>
+</ol>
+<p><a href="https://cokepokes.github.io" target="_blank" rel="noopener">https://cokepokes.github.io</a></p>
+<ol start="2">
+<li>设置归类shuffle作者源</li>
+</ol>
+<p><a href="https://creaturecoding.com/repo" target="_blank" rel="noopener">https://creaturecoding.com/repo</a></p>
+<ol start="3">
+<li>屏蔽系统更新作者源</li>
+</ol>
+<p><a href="https://cydia.ichitaso.com" target="_blank" rel="noopener">https://cydia.ichitaso.com</a></p>
+<ol start="4">
+<li>（注册机）cydown下载管理器作者源</li>
+</ol>
+<p><a href="https://julio.hackyouriphone.org" target="_blank" rel="noopener">https://julio.hackyouriphone.org</a></p>
+<ol start="5">
+<li>越狱状态无视证书掉签appsyncunifed作者源</li>
+</ol>
+<p><a href="https://cydia.akemi.ai" target="_blank" rel="noopener">https://cydia.akemi.ai</a></p>
+<ol start="6">
+<li>（axon源）</li>
+</ol>
+<p><a href="http://repo.kritanta.me" target="_blank" rel="noopener">http://repo.kritanta.me</a></p>
+<ol start="7">
+<li>哥哥源</li>
+</ol>
+<p><a href="http://repo.netskao.com" target="_blank" rel="noopener">http://repo.netskao.com</a></p>
+<ol start="8">
+<li>（仿x手势作者源）</li>
+</ol>
+<p><a href="https://repo.packix.com" target="_blank" rel="noopener">https://repo.packix.com</a></p>
+<ol start="9">
+<li>国外p老作者源</li>
+</ol>
+<p><a href="https://repo.pulandres.me" target="_blank" rel="noopener">https://repo.pulandres.me</a></p>
+<ol start="10">
+<li>作者源FLYJB</li>
+</ol>
+<p><a href="https://xsf1re.github.io/repo" target="_blank" rel="noopener">https://xsf1re.github.io/repo</a></p>
+<ol start="11">
+<li>斑马</li>
+</ol>
+<p><a href="https://getzbra.com/repo" target="_blank" rel="noopener">https://getzbra.com/repo</a></p>
+<ol start="12">
+<li>嗨客源</li>
+</ol>
+<p><a href="http://repo.qqtlr.com" target="_blank" rel="noopener">http://repo.qqtlr.com</a></p>
+<ol start="13">
+<li>旁门左道小一白源</li>
+</ol>
+<p><a href="https://sileo.top" target="_blank" rel="noopener">https://sileo.top</a></p>
+<ol start="14">
+<li>知网少年源</li>
+</ol>
+<p><a href="http://apt.dddjb.cn" target="_blank" rel="noopener">http://apt.dddjb.cn</a></p>
+<ol start="15">
+<li>小麻瓜源</li>
+</ol>
+<p><a href="https://apt.margua.top" target="_blank" rel="noopener">https://apt.margua.top</a></p>
+<ol start="16">
+<li>源(搞机源)</li>
+</ol>
+<p><a href="https://apt.cydia.biBi" target="_blank" rel="noopener">https://apt.cydia.biBi</a></p>
+<ol start="17">
+<li>源</li>
+</ol>
+<p><a href="https://apt.coolstar.xyzAlice" target="_blank" rel="noopener">https://apt.coolstar.xyzAlice</a></p>
+<ol start="18">
+<li>小苹果源</li>
+</ol>
+<p><a href="http://repo.cydiabc.top" target="_blank" rel="noopener">http://repo.cydiabc.top</a></p>
+<ol start="19">
+<li>嗨客汉化源</li>
+</ol>
+<p><a href="http://h.933k.cn" target="_blank" rel="noopener">http://h.933k.cn</a></p>
+<ol start="20">
+<li>小姐姐源</li>
+</ol>
+<p><a href="https://ibreak.yourepo.com" target="_blank" rel="noopener">https://ibreak.yourepo.com</a></p>
+<ol start="21">
+<li>壹筒天下源</li>
+</ol>
+<p><a href="https://yttxcs.com" target="_blank" rel="noopener">https://yttxcs.com</a></p>
+<ol start="22">
+<li>野心源</li>
+</ol>
+<p><a href="http://apt.ambier.cn" target="_blank" rel="noopener">http://apt.ambier.cn</a></p>
+<ol start="23">
+<li>艾锋源</li>
+</ol>
+<p><a href="http://apt.ss03.cn" target="_blank" rel="noopener">http://apt.ss03.cn</a></p>
+<ol start="24">
+<li>贴吧源</li>
+</ol>
+<p><a href="http://apt.cydiaba.cn" target="_blank" rel="noopener">http://apt.cydiaba.cn</a></p>
+<ol start="25">
+<li>知网小白源</li>
+</ol>
+<p><a href="http://apt.xbsite.cn" target="_blank" rel="noopener">http://apt.xbsite.cn</a></p>
+<ol start="26">
+<li>老猫微信源</li>
+</ol>
+<p><a href="http://apt.25mao.com" target="_blank" rel="noopener">http://apt.25mao.com</a></p>
+<ol start="27">
+<li>电话助手作者源</li>
+</ol>
+<p><a href="http://apt.htv123.com" target="_blank" rel="noopener">http://apt.htv123.com</a></p>
+<ol start="28">
+<li>大老板源必装</li>
+</ol>
+<p><a href="http://apt.thebigboss.org/repofiles/cydia" target="_blank" rel="noopener">http://apt.thebigboss.org/repofiles/cydia</a></p>
+<ol start="29">
+<li>手机端自签证书作者源</li>
+</ol>
+<p><a href="http://repo.incendo.ws" target="_blank" rel="noopener">http://repo.incendo.ws</a></p>
+<ol start="30">
+<li>骚达美化源</li>
+</ol>
+<p><a href="https://dada.yourepo.com" target="_blank" rel="noopener">https://dada.yourepo.com</a></p>
+<ol start="31">
+<li>苏达微信美化源</li>
+</ol>
+<p><a href="https://soda-ldz.yourepo.com" target="_blank" rel="noopener">https://soda-ldz.yourepo.com</a></p>
+<ol start="32">
+<li>文件管理器Filza作者源</li>
+</ol>
+<p><a href="http://tigisoftware.com/cydia" target="_blank" rel="noopener">http://tigisoftware.com/cydia</a></p>
+<ol start="33">
+<li>分屏作者源</li>
+</ol>
+<p><a href="https://c1d3r.com/repo" target="_blank" rel="noopener">https://c1d3r.com/repo</a></p>
+<ol start="34">
+<li>（Flex3作者源）</li>
+</ol>
+<p><a href="http://getdelta.co" target="_blank" rel="noopener">http://getdelta.co</a></p>
+<ol start="35">
+<li>（iCleanerpro作者源）</li>
+</ol>
+<p><a href="http://ib-soft.net/cydia" target="_blank" rel="noopener">http://ib-soft.net/cydia</a></p>
+<ol start="36">
+<li>依赖更新最快</li>
+</ol>
+<p><a href="http://rpetri.ch/repo" target="_blank" rel="noopener">http://rpetri.ch/repo</a></p>
+<ol start="37">
+<li>多任务分屏多窗口作者源</li>
+</ol>
+<p><a href="http://akusio.github.io" target="_blank" rel="noopener">http://akusio.github.io</a></p>
+<ol start="38">
+<li>苏兔美化源</li>
+</ol>
+<p><a href="http://sutuplus.github.io/repo" target="_blank" rel="noopener">http://sutuplus.github.io/repo</a></p>
+<ol start="39">
+<li>屏蔽越狱检测Libertylite作者源</li>
+</ol>
+<p><a href="https://ryleyangus.com/repo" target="_blank" rel="noopener">https://ryleyangus.com/repo</a></p>
+<ol start="40">
+<li>多功能自带浏览器增强safari作者源</li>
+</ol>
+<p><a href="https://opa334.github.io" target="_blank" rel="noopener">https://opa334.github.io</a></p>
+<ol start="41">
+<li>屏蔽越狱检测unsub作者源</li>
+</ol>
+<p><a href="http://repo.nepeta.me" target="_blank" rel="noopener">http://repo.nepeta.me</a></p>
+<ol start="42">
+<li>必装自带源控制中心打包源</li>
+</ol>
+<p><a href="https://repo.chariz.io" target="_blank" rel="noopener">https://repo.chariz.io</a></p>
+<ol start="43">
+<li>控制中心插件</li>
+</ol>
+<p><a href="https://www.lanzous.com/b05a08lgbApper" target="_blank" rel="noopener">https://www.lanzous.com/b05a08lgbApper</a></p>
+]]></content>
+      <categories>
+        <category>刷机</category>
+      </categories>
+      <tags>
+        <tag>cydia</tag>
+        <tag>checkra1n</tag>
+      </tags>
+  </entry>
+</search>
