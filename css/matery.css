@@ -33,6 +33,14 @@
     }
 }
 
+/* 修复footer栏busuanzi偶尔隐藏访问量问题 */
+#busuanzi_container_site_pv,
+#busuanzi_value_site_pv,
+#busuanzi_container_site_uv
+{
+display: inline !important;
+}
+
 body {
     background-color: #eaeaea;
     margin: 0;
